@@ -1,5 +1,5 @@
 # MoreStructures - Bug Reports
-
+Website link:https://modrinth.com/mod/morestrustures
 Welcome to the official bug report page for MoreStructures!
 
 This repository was created so the community can help us identify and track issues found in the mod. Your collaboration is essential to making the MoreStructures experience the best it can be.
