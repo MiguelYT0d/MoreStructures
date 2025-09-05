@@ -1,29 +1,29 @@
-# [MoreStructures] - Relatório de Bugs
+# MoreStructures - Bug Reports
 
-Bem-vindo à página oficial de reportes de bugs para o [MoreStructures]!
+Welcome to the official bug report page for MoreStructures!
 
-Este repositório foi criado para que a comunidade possa nos ajudar a identificar e rastrear problemas encontrados no mod. Sua colaboração é essencial para tornar a experiência com o [MoreStructures] a melhor possível.
+This repository was created so the community can help us identify and track issues found in the mod. Your collaboration is essential to making the MoreStructures experience the best it can be.
 
-## Como Reportar um Bug
+## How to Report a Bug
 
-Se você encontrou um erro, crash, comportamento inesperado ou qualquer outro problema com o [MoreStructures], por favor, siga estes passos:
+If you've encountered an error, crash, unexpected behavior, or any other problem with MoreStructures, please follow these steps:
 
-1.  Vá para a aba **Issues** deste repositório.
-2.  Clique no botão **"New issue"**.
-3.  Crie um título claro e descritivo para o seu bug (ex: "Mod trava ao minerar blocos").
-4.  Na descrição, por favor, inclua o máximo de informações possível:
-    *   **Versão do Minecraft:** (Ex: 1.20.1)
-    *   **Versão do Mod:** (Se aplicável)
-    *   **Descrição Detalhada:** Explique o que aconteceu, como aconteceu e em que circunstâncias.
-    *   **Passos para Reproduzir:** Se possível, liste os passos que levam ao erro.
-    *   **Mensagens de Erro:** Copie e cole qualquer texto de erro que apareceu no console do jogo.
-    *   **Screenshots/Vídeos:** Anexe imagens ou vídeos que ilustrem o problema.
-    *   **Conflitos de Mods:** Informe se você está usando outros mods junto com o nosso, e liste-os.
+1. Go to the **Issues** tab of this repository.
+2. Click the **"New Issue"** button.
+3. Create a clear and descriptive title for your bug (e.g., "Mod crashes when mining blocks").
+4. In the description, please include as much information as possible:
+* **Minecraft Version:** (Ex: 1.20.1)
+* **Mod Version:** (If applicable)
+* **Detailed Description:** Explain what happened, how it happened, and under what circumstances.
+* **Steps to Reproduce:** If possible, list the steps that led to the error.
+* **Error Messages:** Copy and paste any error text that appeared in the game console.
+* **Screenshots/Videos:** Attach images or videos that illustrate the issue.
+* **Mod Conflicts:** Please indicate if you are using other mods alongside ours, and list them.
 
-## O Que Esperar
+## What to Expect
 
-*   Analisaremos cada reporte de bug.
-*   Podemos adicionar comentários ou fazer perguntas para obter mais informações.
-*   Bugs confirmados serão marcados e trabalharemos para corrigi-los.
+* We will review every bug report.
+* We may add comments or ask questions to gather more information.
+* Confirmed bugs will be flagged, and we will work to fix them.
 
-Agradecemos sua ajuda em tornar o [MoreStructures] melhor!
+We appreciate your help in making MoreStructures better!
