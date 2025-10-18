@@ -26,4 +26,4 @@ If you've encountered an error, crash, unexpected behavior, or any other problem
 * We may add comments or ask questions to gather more information.
 * Confirmed bugs will be flagged, and we will work to fix them.
 
-We appreciate your help in making MoreStructures better!
+I appreciate your help in making MoreStructures better!
